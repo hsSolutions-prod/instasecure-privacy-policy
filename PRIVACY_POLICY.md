@@ -46,6 +46,8 @@ We may share data only when required:
 
 ---
 
+
+
 ## 5. Your Consent
 
 By using this App, you agree to this Privacy Policy.  
@@ -63,6 +65,23 @@ Any changes will be reflected in this file on our GitHub repository.
 ## 7. Contact
 
 If you have questions or concerns about this policy, please contact:
+
+## 8. Data Deletion Instructions
+
+If you have used our App and wish to delete your data, you can request deletion by following one of these methods:
+
+1. **Email Request:**  
+   Send an email to **[your-email@example.com]** with the subject line **“Delete My Data”**.  
+   Please include the email or social media account (Facebook/Instagram) you used to log in.
+
+2. **Manual Deletion:**  
+   You can remove your data and revoke access anytime by:
+   - Going to your **Facebook Settings → Apps and Websites**  
+   - Finding our App name (**VerseConnect**)  
+   - Selecting **Remove** to delete all associated permissions and data shared with the App.
+
+Once your request is received, all user-related information (if any stored) will be permanently deleted within **30 days**.
+
 
 **Developer:** Soudayik Sinha  
 **Email:** soudayik.hss2025@gmail.com  
